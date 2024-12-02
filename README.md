@@ -2,7 +2,7 @@
 
 A quick start Angular project that shows how to add annotations to nodes and connectors in an Angular Diagram. This project includes a code snippet to add an annotation programmatically and customization options like horizontal alignment, vertical alignment, offset, and text wrapping.
 
-Refer to the following documentation on annotations in the Syncfusion Angular Diagram component: 
+Refer to the following documentation on annotations in the Syncfusion&reg; Angular Diagram component: 
 https://ej2.syncfusion.com/angular/documentation/diagram/labels 
 
 Check out this online annotation example for the Angular Diagram component: 
